@@ -1,0 +1,12 @@
+# Directories
+/bin
+/obj
+/NVIDIA_SDK_Samples
+/test
+/temp
+
+# Settings
+.settings
+
+# Executables
+.exe
